@@ -1,6 +1,6 @@
-##Html5Workshop
+#Html5 Workshop
 ====================
-Interesting links for Talent Garden Html5 Workshop Users:
+Insights for Html5 workshop students
 
 * [Html5 refcard](https://dzone.com/refcardz/html5-new-standards-web-interactivity)
 * [Css3 basis refcard](https://dzone.com/refcardz/css3)
