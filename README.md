@@ -15,3 +15,4 @@ Insights for Html5 workshop students
 * Html5 Specifics - https://html.spec.whatwg.org/
 * Very good FlexBox Guide - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 * Html5 Form validation article - http://www.sitepoint.com/html5-form-validation/
+* Html5 Browsers Compatibility - http://caniuse.com/
