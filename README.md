@@ -1,5 +1,5 @@
 #Html5 Workshop
-_____________________
+--------------------
 Insights for Html5 workshop students
 
 * Html5 refcard - https://dzone.com/refcardz/html5-new-standards-web-interactivity
