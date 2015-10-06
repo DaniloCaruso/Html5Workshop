@@ -35,10 +35,10 @@ CSS Links:
 * Millions of Tutorials on CSS3 - https://css-tricks.com
 
 Browsers (and Extensions) Developer Tools Documentation:
-Google Chrome - https://developer.chrome.com/devtools
-Firefox - https://developer.mozilla.org/en-US/docs/Tools
-Firebug - http://getfirebug.com/faq/
-IE - https://msdn.microsoft.com/en-us/library/dd565628(v=vs.85).aspx
+* Google Chrome - https://developer.chrome.com/devtools
+* Firefox - https://developer.mozilla.org/en-US/docs/Tools
+* Firebug - http://getfirebug.com/faq/
+* IE - https://msdn.microsoft.com/en-us/library/dd565628(v=vs.85).aspx
 
 
 
