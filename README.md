@@ -4,13 +4,16 @@ Insights for Html5 workshop students
 
 Html5 Links:
 
-* W3C School on HTML5 - http://www.w3schools.com/html/
+
+
 * Html5 Specifics - https://html.spec.whatwg.org/
+* Html5 Validator - https://validator.w3.org/
+* W3C School on HTML5 - http://www.w3schools.com/html/
 * Html5 Page on MDN - https://developer.mozilla.org/it/docs/Web/HTML/HTML5
 * Html5 refcard - https://dzone.com/refcardz/html5-new-standards-web-interactivity
 * Html5 Browsers Compatibility - http://caniuse.com/
-* Very Useful HTML5 Validation Article - http://www.html5rocks.com/en/tutorials/forms/constraintvalidation/
-* Html5 Form validation article - http://www.sitepoint.com/html5-form-validation/
+* Client Html5 Validation - http://www.html5rocks.com/en/tutorials/forms/constraintvalidation/
+* Html5 validation article - http://www.sitepoint.com/html5-form-validation/
 * Html5 Rocks: Millions of Html5 tutorials - http://www.html5rocks.com/en/
 * Very Beautiful Canvas Demos - http://davidwalsh.name/canvas-demos
 * Html5 Storage Demo - http://html5demos.com/storage
