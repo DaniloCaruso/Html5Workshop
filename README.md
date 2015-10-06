@@ -9,6 +9,7 @@ Html5 Links:
 * Html5 Page on MDN - https://developer.mozilla.org/it/docs/Web/HTML/HTML5
 * Html5 refcard - https://dzone.com/refcardz/html5-new-standards-web-interactivity
 * Html5 Browsers Compatibility - http://caniuse.com/
+* Very Useful HTML5 Validation Article - http://www.html5rocks.com/en/tutorials/forms/constraintvalidation/
 * Html5 Form validation article - http://www.sitepoint.com/html5-form-validation/
 * Html5 Rocks: Millions of Html5 tutorials - http://www.html5rocks.com/en/
 * Very Beautiful Canvas Demos - http://davidwalsh.name/canvas-demos
