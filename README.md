@@ -2,10 +2,12 @@
 --------------------
 Insights for Html5 workshop students
 
+Cheat Sheets:
+* html5: http://websitesetup.org/html5-cheat-sheet/
+* css3 (1): http://websitesetup.org/css3-cheat-sheet/
+* css3 (2): http://www.smashingmagazine.com/2009/07/css-3-cheat-sheet-pdf/
+
 Html5 Links:
-
-
-
 * Html5 Specifics - https://html.spec.whatwg.org/
 * Html5 Validator - https://validator.w3.org/
 * W3C School on HTML5 - http://www.w3schools.com/html/
@@ -31,5 +33,6 @@ Google Chrome - https://developer.chrome.com/devtools
 Firefox - https://developer.mozilla.org/en-US/docs/Tools
 Firebug - http://getfirebug.com/faq/
 IE - https://msdn.microsoft.com/en-us/library/dd565628(v=vs.85).aspx
+
 
 
