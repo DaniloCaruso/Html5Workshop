@@ -1,0 +1,9 @@
+	input{
+		margin: 5px;
+	}
+	textarea{
+		margin: 5px;
+	}
+	:invalid:required{
+	 border: 1px solid red;
+	}
