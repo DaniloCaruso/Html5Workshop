@@ -25,3 +25,10 @@ CSS Links:
 * Core Css:part3 refcard - https://dzone.com/refcardz/corecss3
 * Very good FlexBox Guide - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
+Browsers (and Extensions) Developer Tools Documentation:
+Google Chrome - https://developer.chrome.com/devtools
+Firefox - https://developer.mozilla.org/en-US/docs/Tools
+Firebug - http://getfirebug.com/faq/
+IE - https://msdn.microsoft.com/en-us/library/dd565628(v=vs.85).aspx
+
+
