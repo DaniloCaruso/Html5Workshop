@@ -2,6 +2,12 @@
 --------------------
 Insights for Html5 workshop students
 
+Web Integrated Developer Environment for HTML5 CSS3 and/or JS:
+* Plunker: http://plnkr.co/
+* JsBin: http://jsbin.com/
+* JsFiddle: https://jsfiddle.net/
+* Codepen: http://codepen.io/
+
 Cheat Sheets:
 * html5: http://websitesetup.org/html5-cheat-sheet/
 * css3 (1): http://websitesetup.org/css3-cheat-sheet/
