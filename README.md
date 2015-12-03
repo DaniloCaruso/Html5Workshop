@@ -2,6 +2,9 @@
 --------------------
 Insights for Html5 workshop students
 
+Global:
+* What Web Can Do Today: https://whatwebcando.today/
+
 Web Integrated Developer Environment for HTML5 CSS3 and/or JS:
 * Plunker: http://plnkr.co/
 * JsBin: http://jsbin.com/
