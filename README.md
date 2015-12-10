@@ -39,11 +39,11 @@ CSS Links:
 * Logic in Media Queries  - https://css-tricks.com/logic-in-media-queries/
 
 CSS Preprocessing:
-Less site: http://lesscss.org/
-Less tutorial: http://verekia.com/less-css/dont-read-less-css-tutorial-highly-addictive/
-Sass site: http://sass-lang.com/
-Sass tutorials: http://thesassway.com/
-Sass basics course: https://teamtreehouse.com/library/sass-basics
+* Less site: http://lesscss.org/
+* Less tutorial: http://verekia.com/less-css/dont-read-less-css-tutorial-highly-addictive/
+* Sass site: http://sass-lang.com/
+* Sass tutorials: http://thesassway.com/
+* Sass basics course: https://teamtreehouse.com/library/sass-basics
 
 
 Browsers (and Extensions) Developer Tools Documentation:
