@@ -36,6 +36,15 @@ CSS Links:
 * Core Css:part3 refcard - https://dzone.com/refcardz/corecss3
 * Very good FlexBox Guide - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 * Millions of Tutorials on CSS3 - https://css-tricks.com
+* Logic in Media Queries  - https://css-tricks.com/logic-in-media-queries/
+
+CSS Preprocessing:
+Less site: http://lesscss.org/
+Less tutorial: http://verekia.com/less-css/dont-read-less-css-tutorial-highly-addictive/
+Sass site: http://sass-lang.com/
+Sass tutorials: http://thesassway.com/
+Sass basics course: https://teamtreehouse.com/library/sass-basics
+
 
 Browsers (and Extensions) Developer Tools Documentation:
 * Google Chrome - https://developer.chrome.com/devtools
