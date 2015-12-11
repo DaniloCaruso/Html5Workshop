@@ -43,8 +43,7 @@ CSS Preprocessing:
 * Less tutorial: http://verekia.com/less-css/dont-read-less-css-tutorial-highly-addictive/
 * Sass site: http://sass-lang.com/
 * Sass tutorials: http://thesassway.com/
-* Sass basics course: https://teamtreehouse.com/library/sass-basics
-
+* Sass Vs. Less : https://css-tricks.com/sass-vs-less/
 
 Browsers (and Extensions) Developer Tools Documentation:
 * Google Chrome - https://developer.chrome.com/devtools
